@@ -1,0 +1,38 @@
+1		    ProgramDesignBasic   	5			0
+2			DiscreteMath		    6			0					1
+3			DataStructure	        4			0					1 2
+4			AssemblyLanguage		5			0					1
+5			AlgorithmDesign	     	4			0					3 4
+6			CSAPP               	6			0
+7			MicrochipBasic	    	4			0					3
+8			MicrochipApplication    3			0					3
+9			CompilerBasic	        5			0					3
+10			OSBasic              	4			0					3
+11			DatabaseBasic	    	5			0					3
+12			HighMath		        6			0
+13			LinearMath		        6			0
+14			MathematicalAnalysis	6			0					12
+15			SimplePhysics	    	4			0					12
+16			ComputerCulture	    	3			0
+17			ComputerSystem      	6			0					6
+18			ComputerNetwork	    	5			0					3
+19			DataCommunication		6			0
+20			OOPDesign               3			0					1 3
+21			Java			    	3			0					1 3
+22			C#.net	        		5			0					1 3
+23			PowerBuilder     		5			0					1 3
+24			VC++	        		3			0					1 3
+25			ASPDesign	        	5			0					1 3
+26			JSPDesign	        	5			0					1 3
+27			VB.net	         		5			0					1 3
+28			Delphi	          		5			0					1 3
+29			C++Builder        		5			0					1 3
+30			English	          		5			1
+31			English	        		5			2
+32			English	         		5			3
+33			English		        	5			4
+34			English		        	5			5
+35			English		        	5			6
+36			English		        	5			7
+37			English		        	5			8
+38			CollegeChinese	    	3			1
